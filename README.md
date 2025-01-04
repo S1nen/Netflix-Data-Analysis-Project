@@ -1,6 +1,6 @@
 # Netflix-Data-Analysis-Project
 Exploratory Data Analysis and Visualization of Netflix Movies and TV Shows Dataset, focusing on trends, popular genres, and content distribution over the years. Includes professional dashboards created in Power BI.
-# Netflix Movies and TV Shows Analysis
+
 
 ## Project Overview
 This project involves the analysis and visualization of Netflix's Movies and TV Shows dataset. The goal is to uncover insights into content trends, popular genres, and country-specific production trends. The analysis includes:
