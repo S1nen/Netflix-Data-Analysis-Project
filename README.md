@@ -37,3 +37,6 @@ The dataset used in this project is a Netflix Movies and TV Shows dataset contai
 - **Python**: pandas, seaborn, matplotlib
 - **Power BI**: Interactive data visualization
 - **GitHub**: Version control and collaboration
+- 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
